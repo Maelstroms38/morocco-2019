@@ -10,11 +10,11 @@ isFree: true
 
 # Rabat 
 
-Upon stepping off the tour bus, our first stop was Rabat. The capital of Morocco has traded hands over centuries of conquest. It's  Arabic name, 'Ribat el-Fath' literally translates to 'fort of victory'. Considering Rabat's grandeur, you may not think otherwise. 
+Upon stepping off the tour bus, our first stop was Rabat. The capital of Morocco has traded hands over centuries of conquest. It's Arabic name, 'Ribat el-Fath' literally translates to 'fort of victory'. 
 
 ![Rabat](https://raw.github.com/maelstroms38/morocco-2019/master/assets/IMG_0017.jpg?raw=true "Rabat")
 
-- The Royal Tomb of Prophet Mouhammed.
+- Mausoleum of Mohammed V.
 
 ![Rabat](https://raw.github.com/maelstroms38/morocco-2019/master/assets/IMG_0018.jpg?raw=true "Rabat")
 
