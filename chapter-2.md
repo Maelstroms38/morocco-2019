@@ -12,9 +12,9 @@ isFree: true
 
 Romanticized in classic films, Casablanca has an upstanding reputation as the largest city in Morocco. During our visit, we passed an IMAX theater, where the new Avengers film would premier. Either the city is in love with itself, or is chasing a vision of film prestige long forgotten. Either way, Casablanca's streets are clean and filled with a diverse populace.  
 
-![Casablanca](https://raw.github.com/maelstroms38/morocco-2019/master/assets/IMG_0039.jpg?raw=true "Casablanca")
+![Casablanca](https://raw.github.com/maelstroms38/morocco-2019/master/assets/IMG_0039.jpeg?raw=true "Casablanca")
 
-- Avengers: Endgame coming soon!
+- Avengers: Endgame now playing!
 
 ![Casablanca](https://raw.github.com/maelstroms38/morocco-2019/master/assets/IMG_0046.jpg?raw=true "Casablanca")
 
@@ -28,4 +28,4 @@ Romanticized in classic films, Casablanca has an upstanding reputation as the la
 
 - Secret gardens to ponder
 
-### Continue to [Marrakech](https://michaelstromer.nyc/books/morocco-2019/marrakech)
+### Continue to [Marrakech](https://michaelstromer.nyc/books/moroccan-mysteries/marrakech)

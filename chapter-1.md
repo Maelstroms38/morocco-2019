@@ -28,4 +28,4 @@ Upon stepping off the tour bus, our first stop was Rabat. The capital of Morocco
 
 - Rabat continues to develop a more modern edifice.
 
-### Continue to [Casablanca](https://michaelstromer.nyc/books/morocco-2019/casablanca)
+### Continue to [Casablanca](https://michaelstromer.nyc/books/moroccan-mysteries/casablanca)
